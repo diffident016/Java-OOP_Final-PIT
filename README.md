@@ -1,3 +1,3 @@
-# Attendance Check
+# Attendance Checker
 
-## This program is an "Attendance Checker" a multi-user program to organize your records, you can easily check and record attendance with it.
+This program is an "Attendance Checker" a multi-user program to organize your records, you can easily check and record attendance with it.
